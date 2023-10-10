@@ -1,0 +1,35 @@
+--НЕПРАВИЛЬНОЕ РЕШЕНИЕ--
+
+#include <vector>
+#include <string>
+
+bool is_can_exit_from_maze(std::vector<std::string> maze, int row, int col){
+    int locked_space{0};
+    bool found_exit{false};
+    while(locked_space != 4 || found_exit == false){
+        int prev_pos[2] = {row,col};
+        int curr_pos[2] = {row,col};
+        int to_move[2]  = {row,col};
+        int pos_check[8] = {0,1,1,0,0,-1,-1,0};
+        char curr_char = maze[curr_pos[0]][curr_pos[1]];
+        for (int i{0}; i < 8;i += 2){
+            int next_pos[2] = {curr_pos[0] + pos_check[i], curr_pos[1] + pos_check[i + 1]};
+            char next_char = maze[next_pos[0]][next_pos[1]];
+            if (next_char == 'E'){return true;}
+            if(next_char == '#'){
+                locked_space += 1;
+            } else if(next_char != '#' && prev_pos[0] != next_pos[0] && prev_pos[1] != next_pos[1]){
+                to_move[0] = next_pos[0];
+                to_move[1] = next_pos[1];
+            }
+        }
+        if(prev_pos[0] != to_move[0] && prev_pos[1] != to_move[1]){locked_space += 1;}
+        if(locked_space == 3){curr_char = '#';}
+        if(locked_space == 4){return found_exit;}
+        curr_pos[0] = to_move[0];
+        curr_pos[1] = to_move[1];
+        curr_char = maze[curr_pos[0]][curr_pos[1]];
+        if (curr_char == 'E'){return true;}
+    }
+    return found_exit;
+}
