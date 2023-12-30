@@ -24,6 +24,7 @@
 | [18. Заголовок столбца Excel](./contest_01/18)  | ![](./img/cpp.png) |
 | [19. Подходящие Слова](./contest_01/19)  | ![](./img/go.png) |
 | [20. Анаграмма. 2 числа](./contest_01/20)  | ![](./img/cpp.png) |
+| ... | ... |
 
 |[Контест 2](https://contest.yandex.ru/contest/52676/problems/) |  |
 | --- | :-: |
