@@ -85,3 +85,4 @@
 | [8. Стратегия печати](./contest_08/08/main.cpp) | ![](./img/cpp.png) |
 | [10. Какой тип](./contest_08/10/main.go) | ![](./img/go.png) |
 | [12. Класс. Стек](./contest_08/12/main.go) | ![](./img/go.png) |
+| [13. Pizza Builder](./contest_08/13/main.go) | ![](./img/go.png) |
