@@ -79,3 +79,5 @@
 | --- | :-: |
 | [1. Никаких секретов](./contest_08/01) | ![](./img/cpp.png) |
 | [2. Уроборос](./contest_08/02) | ![](./img/cpp.png) |
+| [3. 1D массив + функции](./contest_08/03) | ![](./img/cpp.png) |
+| [5. IntSharedPointer](./contest_08/05) | ![](./img/cpp.png) |
