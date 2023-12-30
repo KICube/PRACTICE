@@ -4,26 +4,26 @@
 
 |[Контест 1](https://contest.yandex.ru/contest/52142/problems/) |  |
 | --- | :-: |
-| [1. Приближенное значение Пи](./contest_01/01)    | ![](./img/cpp.png) |
+| [1. Приближенное значение Пи](./contest_01/01/main.cpp)    | ![](./img/cpp.png) |
 | [2. Кислород](./contest_01/02)                    |  ![](./img/go.png) |
-| [3. Частное](./contest_01/03)                     | ![](./img/cpp.png) |
+| [3. Частное](./contest_01/03/main.cpp)                     | ![](./img/cpp.png) |
 | [4. Произведение](./contest_01/04)                | ![](./img/go.png)  |
-| [5. Индекс массы тела](./contest_01/05)           | ![](./img/cpp.png) |
+| [5. Индекс массы тела](./contest_01/05/main.cpp)           | ![](./img/cpp.png) |
 | [6. Банкомат](./contest_01/06)                    | ![](./img/go.png)  |
-| [7. Максимум из двух чисел](./contest_01/07)      | ![](./img/cpp.png) |
+| [7. Максимум из двух чисел](./contest_01/07/main.cpp)      | ![](./img/cpp.png) |
 | [8. Максимум из трёх чисел](./contest_01/08)      | ![](./img/go.png)  |
-| [9. Длина гипотенузы](./contest_01/09)            | ![](./img/cpp.png) |
+| [9. Длина гипотенузы](./contest_01/09/main.cpp)            | ![](./img/cpp.png) |
 | [10. Дерево решений](./contest_01/10)             | ![](./img/go.png)  |
-| [11. Ближайшая из трёх точек](./contest_01/11)    | ![](./img/cpp.png) |
+| [11. Ближайшая из трёх точек](./contest_01/11/main.cpp)    | ![](./img/cpp.png) |
 | [12. Гипотеза Коллатца](./contest_01/12)          | ![](./img/go.png)  |
-| [13. Вывод чисел волнами](./contest_01/13)        | ![](./img/cpp.png) |
+| [13. Вывод чисел волнами](./contest_01/13/main.cpp)        | ![](./img/cpp.png) |
 | [14. Таблица умножения](./contest_01/14)          | ![](./img/go.png)  |
-| [15. RLE сжатие](./contest_01/15)                 | ![](./img/cpp.png) |
+| [15. RLE сжатие](./contest_01/15/main.cpp)                 | ![](./img/cpp.png) |
 | [16. Сглаживание графика Погоды](./contest_01/16) | ![](./img/go.png)  |
-| [17. Дождь над островом](./contest_01/17)         | ![](./img/cpp.png) |
-| [18. Заголовок столбца Excel](./contest_01/18)    | ![](./img/cpp.png) |
+| [17. Дождь над островом](./contest_01/17/main.cpp)         | ![](./img/cpp.png) |
+| [18. Заголовок столбца Excel](./contest_01/18/main.cpp)    | ![](./img/cpp.png) |
 | [19. Подходящие Слова](./contest_01/19)           | ![](./img/go.png)  |
-| [20. Анаграмма. 2 числа](./contest_01/20)         | ![](./img/cpp.png) |
+| [20. Анаграмма. 2 числа](./contest_01/20/main.cpp)         | ![](./img/cpp.png) |
 
 |[Контест 2](https://contest.yandex.ru/contest/52676/problems/) |  |
 | --- | :-: |
