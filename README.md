@@ -78,3 +78,4 @@
 |[Контест 8](https://contest.yandex.ru/contest/57296/problems/) |  |
 | --- | :-: |
 | [1. Никаких секретов](./contest_08/01) | ![](./img/cpp.png) |
+| [2. Уроборос](./contest_08/02) | ![](./img/cpp.png) |
