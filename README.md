@@ -77,4 +77,4 @@
 
 |[Контест 8](https://contest.yandex.ru/contest/57296/problems/) |  |
 | --- | :-: |
-| [1. Класс. RunnableСlock](./contest_08/01) | ![](./img/cpp.png) |
+| [1. Никаких секретов](./contest_08/01) | ![](./img/cpp.png) |
