@@ -65,3 +65,12 @@
 | [4. Класс. Point](./contest_05/04) | ![](./img/cpp.png) |
 | [6. Get a cat](./contest_05/06) | ![](./img/go.png) |
 | [7. Класс. Чайник](./contest_05/07) | ![](./img/go.png) |
+
+|[Контест 6](https://contest.yandex.ru/contest/55918/problems/) |  |
+| --- | :-: |
+| [1. Класс. Shape](./contest_06/01) | ![](./img/cpp.png) |
+| [2. Класс. Менеджер](./contest_06/02) |  ![](./img/cpp.png) |
+
+|[Контест 7](https://contest.yandex.ru/contest/56824/problems/) |  |
+| --- | :-: |
+| [1. Класс. RunnableСlock](./contest_07/01) | ![](./img/cpp.png) |
