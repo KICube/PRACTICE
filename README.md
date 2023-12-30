@@ -83,4 +83,5 @@
 | [5. IntSharedPointer](./contest_08/05/main.cpp) | ![](./img/cpp.png) |
 | [6. Класс Any](./contest_08/06/main.cpp) | ![](./img/cpp.png) |
 | [8. Стратегия печати](./contest_08/08/main.cpp) | ![](./img/cpp.png) |
-| [10. Какой тип](./contest_08/10/main.go) | ![](./img/cpp.go) |
+| [10. Какой тип](./contest_08/10/main.go) | ![](./img/go.png) |
+| [12. Класс. Стек](./contest_08/12/main.go) | ![](./img/go.png) |
