@@ -81,3 +81,4 @@
 | [2. Уроборос](./contest_08/02/main.cpp) | ![](./img/cpp.png) |
 | [3. 1D массив + функции](./contest_08/03/main.cpp) | ![](./img/cpp.png) |
 | [5. IntSharedPointer](./contest_08/05/main.cpp) | ![](./img/cpp.png) |
+| [6. Класс Any](./contest_08/06/main.cpp) | ![](./img/cpp.png) |
